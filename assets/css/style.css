@@ -1,0 +1,28 @@
+html {
+
+	background-color: #ffffff;
+	font-family:  'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	color: #4aaaa5;
+}
+
+body{
+	background: url(C:\Users\DMurill1\UCSD\Basic-Portfolio\assets\images\concrete_seamless.png)
+	
+}
+
+#name{
+	background-color: #4aaaa5
+	padding: 15px;
+
+}
+
+h1{
+	font-weight: bold;
+}
+
+
+
+p{
+	/*color: red;*/
+	background-color: #ffffff;
+}
