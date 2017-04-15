@@ -41,9 +41,7 @@ h1{
 	font-size: 2em;
 }
 
-hr {
 
-}
 nav {
 	float:right;
 	margin-right: 150px;
@@ -81,23 +79,11 @@ nav {
 	padding: 20px;
 	/*margin-left: 15px;*/
 }
-	#content {
-    float: left;
-    width: 564px;
-    background-color: #ffffff;
-    border: 3px solid #dddddd;
-    padding: 40px;
-}
-
-/*#container {
+#container {
 margin-left: 100px;
 width:100%;
-background-color: white;}*/
+background-color: white;}
 
-.container {
-    width: 960px;
-    margin: 0 auto
-}	
 #sidebar {
 	float:right;
 	width: 220px;
@@ -120,7 +106,7 @@ h2{font-weight: bold;}
 margin: 0;}
 
 
-#clear
+clear
 {clear:both;
 margin: 0;}
 
